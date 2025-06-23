@@ -1,8 +1,10 @@
+<h1 align="center">Painted Clouds</h1>
+
+
 <p align="center">
-  <img src="https://rainstorm-data.s3.dualstack.us-east-1.amazonaws.com/identity-assets/org-banner-v2.jpg" alt="Painted Clouds Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/f6a8f30a-fac0-43b5-aac1-6acafd37da1f" alt="Painted Clouds Banner" width="100%" />
 </p>
 
-<h1 align="center">Painted Clouds</h1>
 
 <p align="left">
   <a href="https://paintedcloudsfilm.com">
@@ -10,6 +12,7 @@
   </a>
 
 </p>
+
 
 ---
 
